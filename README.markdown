@@ -1,3 +1,5 @@
+This repo will be made read-only, use the VoxPop Fork: https://github.com/voxpupuli/puppet-swap_file
+
 # swap_file
 
 [![Puppet
